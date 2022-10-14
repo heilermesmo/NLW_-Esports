@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url(/assets/Fundo.svg);
+    background: url(./assets/Fundo.svg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100% auto;
